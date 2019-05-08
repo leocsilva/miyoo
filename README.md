@@ -14,18 +14,18 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 ## Applications
 | Name | Picture | How to run and exit |
 | -----|---------|---------------------|
-| Bard | ![Alt text](imgs/bard.jpg) | Run:<br>&emsp;1. set params in GMenu2X: -text $1<br>&emsp;2. select text file<br> Exit:<br>&emsp;press SELECT |
-| Commander | ![Alt text](imgs/commander.jpg) | Exit:<br>&emsp;press TB and select Quit |
-| GMU | ![Alt text](imgs/gmu.jpg) | Exit:<br>&emsp;press SELECT and then START |
-| WizWrite | ![Alt text](imgs/wizwrite.jpg) | Exit:<br>&emsp;press MENU and select Exit |
+| Bard | ![Alt text](imgs/bard.jpg) | Run:<br>&emsp;1. set params in GMenu2X: -text $1<br>&emsp;2. select text file<br> Exit: press SELECT |
+| Commander | ![Alt text](imgs/commander.jpg) | Exit: press TB and select Quit |
+| GMU | ![Alt text](imgs/gmu.jpg) | Exit: press SELECT and then START |
+| WizWrite | ![Alt text](imgs/wizwrite.jpg) | Exit: press MENU and select Exit |
    
 ## Emulators
-| Name | Picture | How to run | How to exit |
-| -----|---------|------------|-------------|
-| ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | | press MENU and select QUIT |
-| CCDoom | ![Alt text](imgs/ccdoom.jpg) | 1. http://www.pc-freak.net/files/doom-wad-files<br> 2. set params in GMenu2X: -iwad $1<br> 3. select xxx.wad file | press START and select QUIT GAME |
-| CDogs | ![Alt text](imgs/cdogs.jpg) | | press SELECT and then SELECT again |
-| Digger | ![Alt text](imgs/digger.jpg) | | press MENU |
+| Name | Picture | How to run and exit |
+| -----|---------|---------------------|
+| ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | Exit: press MENU and select QUIT |
+| CCDoom | ![Alt text](imgs/ccdoom.jpg) | Run:<br>&emsp;1. http://www.pc-freak.net/files/doom-wad-files<br>&emsp;2. set params in GMenu2X: -iwad $1<br>&emsp;3. select xxx.wad file<br> Exit:&emsp;press START and select QUIT GAME |
+| CDogs | ![Alt text](imgs/cdogs.jpg) | Exit: press SELECT and then SELECT again |
+| Digger | ![Alt text](imgs/digger.jpg) | Exit: press MENU |
 | FCEUX |
 | GamBatte |
 | GnGeo |
@@ -36,22 +36,22 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | KOF |
 | Liero |
 | Mame4All |
-| Mr. Drillux | ![Alt text](imgs/drillux.jpg) | press SELECT |
+| Mr. Drillux | ![Alt text](imgs/drillux.jpg) | Exit: press SELECT |
 | OhBoy |
 | OpenBOR |
 | Pang |
 | PCSX_ReARMed |
 | PicoDrive | 
 | ROTT |
-| SDLPAL_v1 | ![Alt text](imgs/sdlpal_v1.jpg)<br> 劇情內容不一樣(簡體) | 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
-| SDLPAL_v2 | ![Alt text](imgs/sdlpal_v2.jpg)<br> 劇情內容不一樣(繁體)  | 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
+| SDLPAL_v1 | ![Alt text](imgs/sdlpal_v1.jpg)<br> 劇情內容不一樣(簡體) | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
+| SDLPAL_v2 | ![Alt text](imgs/sdlpal_v2.jpg)<br> 劇情內容不一樣(繁體)  | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
 | SMS |
 | Snes9x4D |
 | SORR |
 | Temper |
 | TombStone |
 | Wolf3D |
-| WQX | ![Alt text](imgs/wqx.jpg) | | move cursor to POW and press TA |
+| WQX | ![Alt text](imgs/wqx.jpg) | Exit: move cursor to POW and press TA |
    
 ## Website
 -  https://steward-fu.github.io/website/index.htm
