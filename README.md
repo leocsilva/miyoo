@@ -2,9 +2,9 @@
 ![Alt text](imgs/main.jpg)
   
 ## Introduction
-You might ask why I want to do this on Miyoo/Bittboy handheld ? Since stock firmware is Melis OS that is close-source for Allwinner SoC, the performance is not good as I expected and it is not easy to port some emulators to this OS because we cannot get more information on this OS unless reverse it. Of course, it is also lack of toolchain for developing some apps. So, if I can port Linux OS into this device, it will be more powerful as I think. Besides, we can also port more games and emulators into this device. Now, I finish most of tasks and it is time to share all of you, enjoy !  
+You might ask me why do you need to port Linux OS on Miyoo/Bittboy handheld because stock firmware seems pretty good so far ? Since stock firmware is Melis OS that is close-source for Allwinner SoC, the performance is not good as I expected (not you) and it is not easy to port game and emulator to this OS because we cannot get more information on this OS unless reverse it (it is not easy as you think). Of course, it also lacks toolchain to port apps and emulator. So, if I can port Linux OS into this device, I think it will be more powerful (exceed my expectation). Besides, we can also port more games and emulators into this device if it is Linux OS. Now, I finish most of tasks and it is time to share it to all of you, enjoy !  
   
-If you would like to re-build all of sources, please refer to wiki page but you need to get toolchain, kernel and uboot in release page firstly.
+If you would like to re-build all of sources, please refer to wiki page but you might need to get toolchain, kernel and uboot in release page firstly.
    
 ## Launcher
 | Name | Picture |
@@ -15,21 +15,21 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | Name | Picture | How to run and exit |
 | -----|---------|---------------------|
 | Bard | ![Alt text](imgs/bard.jpg) | Run:<br>&emsp;1. set params in GMenu2X: -text $1<br>&emsp;2. select text file<br> Exit: press SELECT |
-| Commander | ![Alt text](imgs/commander.jpg) | Exit: press TB and select Quit |
+| Commander | ![Alt text](imgs/commander.jpg) | Exit: press TB |
 | GMU | ![Alt text](imgs/gmu.jpg) | Exit: press SELECT and then START |
-| WizWrite | ![Alt text](imgs/wizwrite.jpg) | Exit: press MENU and select Exit |
+| WizWrite | ![Alt text](imgs/wizwrite.jpg) | Exit: press MENU |
    
 ## Emulators
 | Name | Picture | How to run and exit |
 | -----|---------|---------------------|
-| ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | Exit: press MENU and select QUIT |
-| CCDoom | ![Alt text](imgs/ccdoom.jpg) | Run:<br>&emsp;1. http://www.pc-freak.net/files/doom-wad-files<br>&emsp;2. set params in GMenu2X: -iwad $1<br>&emsp;3. select xxx.wad file<br> Exit: press START and select QUIT GAME |
-| CDogs | ![Alt text](imgs/cdogs.jpg) | Exit: press SELECT and SELECT again |
+| ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | Exit: press MENU |
+| CCDoom | ![Alt text](imgs/ccdoom.jpg) | Run:<br>&emsp;1. http://www.pc-freak.net/files/doom-wad-files<br>&emsp;2. set params in GMenu2X: -iwad $1<br>&emsp;3. select xxx.wad file<br> Exit: press START |
+| CDogs | ![Alt text](imgs/cdogs.jpg) | Exit: press SELECT |
 | Digger | ![Alt text](imgs/digger.jpg) | Exit: press MENU |
-| FCEUX |
-| GamBatte |
-| GnGeo |
-| GPSP |
+| FCEUX | Exit: press MENU
+| GamBatte | Exit: press MENU
+| GnGeo | Exit: press MENU |
+| GPSP | Exit: press MENU |
 | HHeretic |
 | HHexen |
 | JinYong |
@@ -40,15 +40,15 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | OhBoy |
 | OpenBOR |
 | Pang |
-| PCSX_ReARMed |
-| PicoDrive | 
-| ROTT |
+| PCSX_ReARMed | Exit: press MENU |
+| PicoDrive | Exit: press MENU |
+| ROTT | 
 | SDLPAL_v1 | ![Alt text](imgs/sdlpal_v1.jpg)<br> | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
 | SDLPAL_v2 | ![Alt text](imgs/sdlpal_v2.jpg)<br> 劇情內容不一樣(繁體)  | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
-| SMS |
+| SMS | Exit: press MENU |
 | Snes9x4D |
-| SORR |
-| Temper |
+| SORR | Exit: pressMENU |
+| Temper | Exit: press MENU |
 | TombStone |
 | Wolf3D |
 | WQX | ![Alt text](imgs/wqx.jpg) | Exit: move cursor to POW and press TA |
