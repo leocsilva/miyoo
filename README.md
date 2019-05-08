@@ -4,7 +4,7 @@
 ## Introduction
 You might ask why I want to do this on Miyoo/Bittboy handheld ? Since stock firmware is Melis OS that is close-source for Allwinner SoC, the performance is not good as I expected and it is not easy to port some emulators to this OS because we cannot get more information on this OS unless reverse it. Of course, it is also lack of toolchain for developing some apps. So, if I can port Linux OS into this device, it will be more powerful as I think. Besides, we can also port more games and emulators into this device. Now, I finish most of tasks and it is time to share all of you, enjoy !  
   
-If you would like to re-build all of sources, please refer to wiki page but you need to get toolchain, kernel and uboot in release page firstly before do it.
+If you would like to re-build all of sources, please refer to wiki page but you need to get toolchain, kernel and uboot in release page firstly.
    
 ## Launcher
 | Name | Picture |
@@ -23,8 +23,8 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | Name | Picture | How to run and exit |
 | -----|---------|---------------------|
 | ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | Exit: press MENU and select QUIT |
-| CCDoom | ![Alt text](imgs/ccdoom.jpg) | Run:<br>&emsp;1. http://www.pc-freak.net/files/doom-wad-files<br>&emsp;2. set params in GMenu2X: -iwad $1<br>&emsp;3. select xxx.wad file<br> Exit:&emsp;press START and select QUIT GAME |
-| CDogs | ![Alt text](imgs/cdogs.jpg) | Exit: press SELECT and then SELECT again |
+| CCDoom | ![Alt text](imgs/ccdoom.jpg) | Run:<br>&emsp;1. http://www.pc-freak.net/files/doom-wad-files<br>&emsp;2. set params in GMenu2X: -iwad $1<br>&emsp;3. select xxx.wad file<br> Exit: press START and select QUIT GAME |
+| CDogs | ![Alt text](imgs/cdogs.jpg) | Exit: press SELECT and SELECT again |
 | Digger | ![Alt text](imgs/digger.jpg) | Exit: press MENU |
 | FCEUX |
 | GamBatte |
@@ -43,7 +43,7 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | PCSX_ReARMed |
 | PicoDrive | 
 | ROTT |
-| SDLPAL_v1 | ![Alt text](imgs/sdlpal_v1.jpg)<br> 劇情內容不一樣(簡體) | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
+| SDLPAL_v1 | ![Alt text](imgs/sdlpal_v1.jpg)<br> | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
 | SDLPAL_v2 | ![Alt text](imgs/sdlpal_v2.jpg)<br> 劇情內容不一樣(繁體)  | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
 | SMS |
 | Snes9x4D |
