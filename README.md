@@ -22,10 +22,10 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 ## Emulators
 | Name | Picture | How to run it |
 | -----|---------|---------------|
-| ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | 
-| CCDoom | 
-| CDogs | 
-| Digger | ![Alt text](imgs/digger.jpg) |
+| ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | |
+| CCDoom | ![Alt text](imgs/ccdoom.jpg) | 1. http://www.pc-freak.net/files/doom-wad-files<br> 2. set params in GMenu2X: -iwad $1<br> 3. run CCDoom and select downloaded xxx.wad file | 
+| CDogs | ![Alt text](imgs/cdogs.jpg) | | |
+| Digger | ![Alt text](imgs/digger.jpg) | |
 | FCEUX |
 | GamBatte |
 | GnGeo |
@@ -44,7 +44,7 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | PicoDrive | 
 | ROTT |
 | SDLPAL_v1 | ![Alt text](imgs/sdlpal_v1.jpg) |
-| SDLPAL_v2 |
+| SDLPAL_v2 | ![Alt text](imgs/sdlpal_v1.jpg) |
 | SMS |
 | Snes9x4D |
 | SORR |
