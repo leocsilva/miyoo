@@ -12,12 +12,12 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | GMenu2X | ![Alt text](imgs/gmenu2x.jpg) |
    
 ## Applications
-| Name | Picture |
-| -----|---------|
-| Bard | ![Alt text](imgs/bard.jpg)<br> How to run:<br>&emsp;&emsp;1. set params in GMenu2X: -text $1<br>&emsp;&emsp;2. select text file<br><br> How to exit:<br>&emsp;&emsp;press SELECT |
-| Commander | ![Alt text](imgs/commander.jpg)<br> How to exit:<br>&emsp;&emsp;press TB and select Quit |
-| GMU | ![Alt text](imgs/gmu.jpg)<br> How to exit:<br>&emsp;&emsp;press SELECT and then START |
-| WizWrite | ![Alt text](imgs/wizwrite.jpg)<br> How to exit:<br>&emsp;&emsp;press MENU and select Exit |
+| Name | Picture | How to run and exit |
+| -----|---------|---------------------|
+| Bard | ![Alt text](imgs/bard.jpg) | Run:<br>&emsp;1. set params in GMenu2X: -text $1<br>&emsp;2. select text file<br> Exit:<br>&emsp;press SELECT |
+| Commander | ![Alt text](imgs/commander.jpg) | Exit:<br>&emsp;press TB and select Quit |
+| GMU | ![Alt text](imgs/gmu.jpg) | Exit:<br>&emsp;press SELECT and then START |
+| WizWrite | ![Alt text](imgs/wizwrite.jpg) | Exit:<br>&emsp;press MENU and select Exit |
    
 ## Emulators
 | Name | Picture | How to run | How to exit |
