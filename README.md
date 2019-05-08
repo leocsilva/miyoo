@@ -12,18 +12,18 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | GMenu2X | ![Alt text](imgs/gmenu2x.jpg) |
    
 ## Applications
-| Name | Picture | How to run | How to exit |
-| -----|---------|------------|-------------|
-| Bard | ![Alt text](imgs/bard.jpg) | 1. set params in GMenu2X: -text $1<br> 2. select text file | press SELECT |
-| Commander | ![Alt text](imgs/commander.jpg) | | press TB and select Quit |
-| GMU | ![Alt text](imgs/gmu.jpg) | | press SELECT and then START |
-| WizWrite | ![Alt text](imgs/wizwrite.jpg) | press MENU and select Exit |
+| Name | Picture |
+| -----|---------|
+| Bard | ![Alt text](imgs/bard.jpg)<br> How to run:<br>&emsp;&emsp;1. set params in GMenu2X: -text $1<br>&emsp;&emsp;2. select text file<br><br> How to exit:<br>&emsp;&emsp;press SELECT |
+| Commander | ![Alt text](imgs/commander.jpg)<br> How to exit:<br>&emsp;&emsp;press TB and select Quit |
+| GMU | ![Alt text](imgs/gmu.jpg)<br> How to exit:<br>&emsp;&emsp;press SELECT and then START |
+| WizWrite | ![Alt text](imgs/wizwrite.jpg)<br> How to exit:<br>&emsp;&emsp;press MENU and select Exit |
    
 ## Emulators
 | Name | Picture | How to run | How to exit |
 | -----|---------|------------|-------------|
-| ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | press MENU and select QUIT |
-| CCDoom | ![Alt text](imgs/ccdoom.jpg) | 1. http://www.pc-freak.net/files/doom-wad-files<br> 2. set params in GMenu2X: -iwad $1<br> 3. select xxx.wad file | 
+| ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | | press MENU and select QUIT |
+| CCDoom | ![Alt text](imgs/ccdoom.jpg) | 1. http://www.pc-freak.net/files/doom-wad-files<br> 2. set params in GMenu2X: -iwad $1<br> 3. select xxx.wad file | press START and select QUIT GAME |
 | CDogs | ![Alt text](imgs/cdogs.jpg) | | press SELECT and then SELECT again |
 | Digger | ![Alt text](imgs/digger.jpg) | | press MENU |
 | FCEUX |
