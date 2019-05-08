@@ -14,16 +14,16 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 ## Applications
 | Name | Picture | How to run it |
 | -----|---------|---------------|
-| Bard | ![Alt text](imgs/bard.jpg) | 
-| Commander | ![Alt text](imgs/commander.jpg) |
-| GMU | ![Alt text](imgs/gmu.jpg) |
-| WizWrite | ![Alt text](imgs/wizwrite.jpg) |
+| Bard | ![Alt text](imgs/bard.jpg) | 1. set params in GMenu2X: -f $1<br> 2. select text file | 
+| Commander | ![Alt text](imgs/commander.jpg) | |
+| GMU | ![Alt text](imgs/gmu.jpg) | |
+| WizWrite | ![Alt text](imgs/wizwrite.jpg) | |
    
 ## Emulators
 | Name | Picture | How to run it |
 | -----|---------|---------------|
 | ASCIIpOrtal | ![Alt text](imgs/ascii.jpg) | |
-| CCDoom | ![Alt text](imgs/ccdoom.jpg) | 1. http://www.pc-freak.net/files/doom-wad-files<br> 2. set params in GMenu2X: -iwad $1<br> 3. run CCDoom and select downloaded xxx.wad file | 
+| CCDoom | ![Alt text](imgs/ccdoom.jpg) | 1. http://www.pc-freak.net/files/doom-wad-files<br> 2. set params in GMenu2X: -iwad $1<br> 3. select xxx.wad file | 
 | CDogs | ![Alt text](imgs/cdogs.jpg) | | |
 | Digger | ![Alt text](imgs/digger.jpg) | |
 | FCEUX |
