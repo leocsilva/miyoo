@@ -26,10 +26,10 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | CCDoom | ![Alt text](imgs/ccdoom.jpg) | Run:<br>&emsp;1. http://www.pc-freak.net/files/doom-wad-files<br>&emsp;2. set params in GMenu2X: -iwad $1<br>&emsp;3. select xxx.wad file<br> Exit: press START |
 | CDogs | ![Alt text](imgs/cdogs.jpg) | Exit: press SELECT |
 | Digger | ![Alt text](imgs/digger.jpg) | Exit: press MENU |
-| FCEUX | Exit: press MENU
-| GamBatte | Exit: press MENU
-| GnGeo | Exit: press MENU |
-| GPSP | Exit: press MENU |
+| FCEUX | |
+| GamBatte | 
+| GnGeo | |
+| GPSP | |
 | HHeretic |
 | HHexen |
 | JinYong |
@@ -40,15 +40,15 @@ If you would like to re-build all of sources, please refer to wiki page but you 
 | OhBoy |
 | OpenBOR |
 | Pang |
-| PCSX_ReARMed | Exit: press MENU |
-| PicoDrive | Exit: press MENU |
+| PCSX_ReARMed | |
+| PicoDrive | |
 | ROTT | 
 | SDLPAL_v1 | ![Alt text](imgs/sdlpal_v1.jpg)<br> | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
 | SDLPAL_v2 | ![Alt text](imgs/sdlpal_v2.jpg)<br> 劇情內容不一樣(繁體)  | Exit: 於遊戲中按下B，選擇系統，再選擇結束遊戲 |
-| SMS | Exit: press MENU |
+| SMS | |
 | Snes9x4D |
-| SORR | Exit: pressMENU |
-| Temper | Exit: press MENU |
+| SORR | |
+| Temper | |
 | TombStone |
 | Wolf3D |
 | WQX | ![Alt text](imgs/wqx.jpg) | Exit: move cursor to POW and press TA |
